@@ -1,0 +1,7 @@
+[submodule "game"]
+	path = game
+	url = git@github.com:YetAnotherRoguelike/game.git
+
+[submodule "www"]
+	path = www
+	url = git@github.com:YetAnotherRoguelike/web-client.git
